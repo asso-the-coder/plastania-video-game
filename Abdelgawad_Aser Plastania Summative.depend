@@ -1,0 +1,461 @@
+# depslib dependency file v1.0
+1578611824 source:f:\xingr\coding\abdelgawad_aser plastania summative\allegro.cpp
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1578696594 source:f:\xingr\coding\abdelgawad_aser plastania summative\main.cpp
+	<iostream>
+	<math.h>
+	"prototypes.h"
+	"defines.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1578695908 f:\xingr\coding\abdelgawad_aser plastania summative\prototypes.h
+	<iostream>
+	<stdio.h>
+	"defines.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1578697180 f:\xingr\coding\abdelgawad_aser plastania summative\defines.h
+
+1578697278 source:f:\xingr\coding\abdelgawad_aser plastania summative\drawfunctions.cpp
+	<iostream>
+	<stdio.h>
+	"defines.h"
+	<math.h>
+	<stdlib.h>
+	"prototypes.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1578611824 source:f:\xingr\coding\abdelgawad_aser plastania summative\music.cpp
+	<iostream>
+	<stdio.h>
+	"defines.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1578696092 source:f:\xingr\coding\abdelgawad_aser plastania summative\createbitmaps.cpp
+	<iostream>
+	<stdio.h>
+	"defines.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1579259915 source:c:\asercompsci\abdelgawad_aser plastania summative\abdelgawad_aser plastania summative\allegro.cpp
+	<iostream>
+	<stdio.h>
+	"defines.h"
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	"prototypes.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1579242950 source:c:\asercompsci\abdelgawad_aser plastania summative\abdelgawad_aser plastania summative\createbitmaps.cpp
+	<iostream>
+	<stdio.h>
+	"defines.h"
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	"prototypes.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1579260511 c:\asercompsci\abdelgawad_aser plastania summative\abdelgawad_aser plastania summative\defines.h
+
+1579246153 source:c:\asercompsci\abdelgawad_aser plastania summative\abdelgawad_aser plastania summative\drawfunctions.cpp
+	<iostream>
+	<stdio.h>
+	"defines.h"
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	"prototypes.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1579275257 c:\asercompsci\abdelgawad_aser plastania summative\abdelgawad_aser plastania summative\prototypes.h
+	<iostream>
+	<stdio.h>
+	"defines.h"
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	"prototypes.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1579275535 source:c:\asercompsci\abdelgawad_aser plastania summative\abdelgawad_aser plastania summative\main.cpp
+	<iostream>
+	<stdio.h>
+	"defines.h"
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	"prototypes.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1579259915 source:c:\asercompsci\abdelgawad_aser plastania summative\abdelgawad_aser plastania summative\music.cpp
+	<iostream>
+	<stdio.h>
+	"defines.h"
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	"prototypes.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1579272823 source:c:\asercompsci\abdelgawad_aser plastania summative\abdelgawad_aser plastania summative\collisiondetection.cpp
+	<iostream>
+	<stdio.h>
+	"defines.h"
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	"prototypes.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1579275683 source:c:\asercompsci\abdelgawad_aser plastania summative\abdelgawad_aser plastania summative\filefunctions.cpp
+	<iostream>
+	<stdio.h>
+	"defines.h"
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	"prototypes.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1579259915 source:c:\asercompsci\abdelgawad_aser plastania summative\abdelgawad_aser plastania summative\gamecompleted.cpp
+	<iostream>
+	<stdio.h>
+	"defines.h"
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	"prototypes.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1579261479 source:c:\asercompsci\abdelgawad_aser plastania summative\abdelgawad_aser plastania summative\titlefunctions.cpp
+	<iostream>
+	<stdio.h>
+	"defines.h"
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	"prototypes.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1579259915 source:c:\asercompsci\abdelgawad_aser plastania summative\abdelgawad_aser plastania summative\manipulateelements.cpp
+	<iostream>
+	<stdio.h>
+	"defines.h"
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	"prototypes.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1579275257 source:c:\asercompsci\abdelgawad_aser plastania summative\abdelgawad_aser plastania summative\gamefunctions.cpp
+	<iostream>
+	<stdio.h>
+	"defines.h"
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	"prototypes.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1619927562 source:d:\aser_plastaniasummative ics3u\abdelgawad_aser plastania summative\abdelgawad_aser plastania summative\allegro.cpp
+	<iostream>
+	<stdio.h>
+	"defines.h"
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	"prototypes.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1619927564 d:\aser_plastaniasummative ics3u\abdelgawad_aser plastania summative\abdelgawad_aser plastania summative\defines.h
+
+1619927565 d:\aser_plastaniasummative ics3u\abdelgawad_aser plastania summative\abdelgawad_aser plastania summative\prototypes.h
+	<iostream>
+	<stdio.h>
+	"defines.h"
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	"prototypes.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1619927564 source:d:\aser_plastaniasummative ics3u\abdelgawad_aser plastania summative\abdelgawad_aser plastania summative\collisiondetection.cpp
+	<iostream>
+	<stdio.h>
+	"defines.h"
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	"prototypes.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1619927564 source:d:\aser_plastaniasummative ics3u\abdelgawad_aser plastania summative\abdelgawad_aser plastania summative\filefunctions.cpp
+	<iostream>
+	<stdio.h>
+	"defines.h"
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	"prototypes.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1619927564 source:d:\aser_plastaniasummative ics3u\abdelgawad_aser plastania summative\abdelgawad_aser plastania summative\gamecompleted.cpp
+	<iostream>
+	<stdio.h>
+	"defines.h"
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	"prototypes.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1619927564 source:d:\aser_plastaniasummative ics3u\abdelgawad_aser plastania summative\abdelgawad_aser plastania summative\gamefunctions.cpp
+	<iostream>
+	<stdio.h>
+	"defines.h"
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	"prototypes.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1619927564 source:d:\aser_plastaniasummative ics3u\abdelgawad_aser plastania summative\abdelgawad_aser plastania summative\main.cpp
+	<iostream>
+	<stdio.h>
+	"defines.h"
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	"prototypes.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1619927564 source:d:\aser_plastaniasummative ics3u\abdelgawad_aser plastania summative\abdelgawad_aser plastania summative\manipulateelements.cpp
+	<iostream>
+	<stdio.h>
+	"defines.h"
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	"prototypes.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1619927565 source:d:\aser_plastaniasummative ics3u\abdelgawad_aser plastania summative\abdelgawad_aser plastania summative\music.cpp
+	<iostream>
+	<stdio.h>
+	"defines.h"
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	"prototypes.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1619927565 source:d:\aser_plastaniasummative ics3u\abdelgawad_aser plastania summative\abdelgawad_aser plastania summative\titlefunctions.cpp
+	<iostream>
+	<stdio.h>
+	"defines.h"
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	"prototypes.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
