@@ -1,4 +1,4 @@
-Angry Birds-esque video game I made in high school using the Allegro Graphics Package in C++
+Angry Birds-esque video game I made in high school using the Allegro game programming library in C++
 
 To play on a Windows machine, simply run the .exe in the root directory. 
 
